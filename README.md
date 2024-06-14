@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile! 👋
 
 ### About Me
-- 🏆 I've been working with Data Science since 2019, currently as a Data Scientist Specialist / Tech Lead at Santander Bank Brazil.
+- 🏆 I've been working with Data Science and Software Engineeering since 2018, currently as a Data Scientist Specialist / Tech Lead at Santander Bank Brazil.
   
 - 🎯 Specializing in NLP, LLM, Credit Modeling, Customer Segmentation, Churn Prediction, Propensity and Regression Models, Causal Inference, and Software Engineering.
   
