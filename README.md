@@ -25,7 +25,7 @@
   - Predictive models for customer retention.
   
 - 🔗 [LEDIA](https://github.com/las-t1k/Ledia/)
-  - Machine Learning models for root cause analysis of complaints.
+  - NLP Machine Learning models for root cause analysis of complaints.
   
 - 🔗 [Incubadora](https://github.com/las-t1k/Incubadora)
   - Forecasting customer complaints with predictive models.
