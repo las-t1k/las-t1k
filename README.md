@@ -5,9 +5,9 @@
   
 - 🎯 Specializing in NLP, LLM, Credit Modeling, Customer Segmentation, Churn Prediction, Propensity and Regression Models, Causal Inference, and Software Engineering.
   
-- 💻 Technical skills: Python, C#, JavaScript, PySpark, Databricks, Kedro, R, Machine Learning, SQL, NoSQL, Git, FastAPI, Flask, CI/CD, Unittest, Docker, Kubernetes, React, Express, Azure, and AWS.
+- 💻 Technical skills: Python, C#, JavaScript, Typescript, PySpark, Databricks, Kedro, R, Machine Learning, SQL, NoSQL, Git, FastAPI, Flask, CI/CD, Unittest, Docker, Kubernetes, React, Express, Azure, and AWS.
   
-- 🎓 Master's in Business Analytics & Big Data from Fundação Getulio Vargas (FGV), Engineering degree from FEI.
+- 🎓 Currently working towards a Master's in Business Analytics & Big Data from Fundação Getulio Vargas (FGV), and bachEngineering degree from FEI.
   
 - 💡 Passionate about leveraging data to solve real-world problems, dedicated to education and mentoring.
 
@@ -41,14 +41,14 @@
 1️⃣ [Fashion E-commerce Platform](https://github.com/las-t1k/Ecommerce/)
     - Develop an e-commerce platform for a fashion company to enhance their online presence and sales capabilities.
 
-3️⃣ [Complaints Management System](https://github.com/las-t1k/ComplaintsManagementSystem)
+2️⃣ [Complaints Management System](https://github.com/las-t1k/ComplaintsManagementSystem)
     - A system to organize and distribute complaint demands for analyst treatment within a corporate setting, improving the efficiency and responsiveness of the complaints handling process.
   
-2️⃣ [Satellite](https://github.com/las-t1k/satelite/)
+3️⃣ [Satellite](https://github.com/las-t1k/satelite/)
     - Developed web scraping and ETL processes to extract complaints from various systems and integrate them into a single platform.
   
-3️⃣ [Steel](https://github.com/las-t1k/steel/)
+4️⃣ [Steel](https://github.com/las-t1k/steel/)
     - Developed a microservice responsible for collecting real-time complaints.
 
-3️⃣ [Complaints Resolution RPA](https://github.com/las-t1k/steel/)
+5️⃣ [Complaints Resolution RPA](https://github.com/las-t1k/steel/)
     - Develop a RPA to automate the dispute resolution process
