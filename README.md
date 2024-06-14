@@ -1,24 +1,48 @@
-# Portifólio
-Breve descrição de projetos que já trabalhei
+## Welcome to My GitHub by Profile! 👋
 
-### Projeto: Satellite
+### About Me
+- 🏆 I've been working with Data Science since 2019, currently as a Data Scientist Specialist / Tech Lead at Santander Bank Brazil.
+  
+- 🎯 Specializing in NLP, LLM, Credit Modeling, Customer Segmentation, Churn Prediction, Propensity and Regression Models, Causal Inference, and Software Engineering.
+  
+- 💻 Technical skills: Python, C#, JavaScript, PySpark, Databricks, Kedro, R, Machine Learning, SQL, NoSQL, Git, FastAPI, Flask, CI/CD, Unittest, Docker, Kubernetes, React, Express, Azure, and AWS.
+  
+- 🎓 Master's in Business Analytics & Big Data from Fundação Getulio Vargas (FGV), Engineering degree from FEI.
+  
+- 💡 Passionate about leveraging data to solve real-world problems, dedicated to education and mentoring.
 
-**Objetivo:**  
-Fornecer uma única ferramenta de gestão de reclamações para gerentes, substituindo a necessidade de acessar múltiplos sistemas para visualizar reclamações contra a empresa.
+### 📊 Projects
 
-**Meu Papel:**  
-Desenvolvimento de web scraping e ETL para extrair reclamações de diversos sistemas e integrá-las em uma única plataforma, facilitando a gestão e acompanhamento dessas reclamações por parte dos gerentes.
+#### Data Science
 
-**Tecnologias Utilizadas:**  
-- **Python**: Utilizado para scripting geral e automação.
-- **Selenium**: Empregado para automatizar a navegação web e extrair dados necessários.
-- **MySQL**: Usado para armazenar e gerenciar as reclamações extraídas antes de serem apresentadas na interface do usuário.
+- 🔗 [Banking Transactions](https://github.com/las-t1k/Transactions/)
+  - Analyzing customer behavior through transaction data using NLP and LLM.
+  
+- 🔗 [NextBestAction](https://github.com/las-t1k/NextBestAction)
+  - Using Machine Learning to strategize customer engagement.
+  
+- 🔗 [Churn Prediction](https://github.com/las-t1k/ChurnPrediction/)
+  - Predictive models for customer retention.
+  
+- 🔗 [LEDIA](https://github.com/las-t1k/Ledia/)
+  - Machine Learning models for root cause analysis of complaints.
+  
+- 🔗 [Incubadora](https://github.com/las-t1k/Incubadora)
+  - Forecasting customer complaints with predictive models.
+  
+- 🔗 [IoT Dashboard](https://github.com/las-t1k/IoTDashboard)
+  - Real-time data visualization for IoT sensors.
+  
+- 🔗 [Streaming Service Dashboard](https://github.com/las-t1k/StreamingServiceDashboard/)
+  - Dashboard monitoring for a streaming startup.
 
-**Resultados Alcançados:**  
-A implementação do projeto resultou em uma redução significativa da complexidade e do tempo necessário para os gerentes acessarem as reclamações. Anteriormente, eles precisavam consultar de 4 a 5 sistemas diferentes, o que foi consolidado em um único ponto de acesso.
+#### Software Engineering
 
-**Desafios e Aprendizados:**  
-- **Web Scraping e Extração de Dados:** Enfrentei desafios técnicos relacionados à extração eficiente de dados de múltiplos sistemas simultaneamente.
-- **Throughput de Rede e Escalabilidade:** Aprendi sobre a importância de gerenciar o throughput de rede e escalonar o sistema para suportar a carga de dados sem comprometer a performance.
-- **Parametrização de Sistrias que o modelo necessita:** A experiência reforçou a necessidade de uma configuração e parametrização cuidadosa para garantir que o sistema funcionasse de forma confiável e eficiente.
-
+- 🔗 [Fashion E-commerce Platform](https://github.com/las-t1k/Ecommerce/)
+  - E-commerce development for fashion retail enhancement.
+  
+- 🔗 [Satellite](https://github.com/las-t1k/satelite/)
+  - Web scraping and ETL for complaint management integration.
+  
+- 🔗 [Steel](https://github.com/las-t1k/steel/)
+  - Microservice for real-time complaint collection.
