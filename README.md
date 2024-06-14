@@ -1,4 +1,4 @@
-## Welcome to My GitHub by Profile! 👋
+## Welcome to My GitHub Profile! 👋
 
 ### About Me
 - 🏆 I've been working with Data Science since 2019, currently as a Data Scientist Specialist / Tech Lead at Santander Bank Brazil.
@@ -15,34 +15,34 @@
 
 #### Data Science
 
-- 🔗 [Banking Transactions](https://github.com/las-t1k/Transactions/)
-  - Analyzing customer behavior through transaction data using NLP and LLM.
+1. 🔗 [Banking Transactions](https://github.com/las-t1k/Transactions/)
+    - Understand customer behavior more deeply through transaction data using techniques from NLP and LLM.
   
-- 🔗 [NextBestAction](https://github.com/las-t1k/NextBestAction)
-  - Using Machine Learning to strategize customer engagement.
+2. 🔗 [NextBestAction](https://github.com/las-t1k/NextBestAction)
+    - Use Machine Learning data to determine the best action to take for each customer.
   
-- 🔗 [Churn Prediction](https://github.com/las-t1k/ChurnPrediction/)
-  - Predictive models for customer retention.
+3. 🔗 [Churn Prediction](https://github.com/las-t1k/ChurnPrediction/)
+    - Developed predictive models to identify customers likely to churn.
   
-- 🔗 [LEDIA](https://github.com/las-t1k/Ledia/)
-  - NLP Machine Learning models for root cause analysis of complaints.
+4. 🔗 [LEDIA](https://github.com/las-t1k/Ledia/)
+    - Developed Machine Learning models to identify root causes of complaints.
   
-- 🔗 [Incubadora](https://github.com/las-t1k/Incubadora)
-  - Forecasting customer complaints with predictive models.
+5. 🔗 [Incubadora](https://github.com/las-t1k/Incubadora)
+    - Developed predictive models to forecast customer complaints.
   
-- 🔗 [IoT Dashboard](https://github.com/las-t1k/IoTDashboard)
-  - Real-time data visualization for IoT sensors.
+6. 🔗 [IoT Dashboard](https://github.com/las-t1k/IoTDashboard)
+    - Develop a dashboard to display strategic data and logs in real-time for a company manufacturing IoT sensors.
   
-- 🔗 [Streaming Service Dashboard](https://github.com/las-t1k/StreamingServiceDashboard/)
-  - Dashboard monitoring for a streaming startup.
+7. 🔗 [Streaming Service Dashboard](https://github.com/las-t1k/StreamingServiceDashboard/)
+    - Develop a dashboard to monitor strategic indicators for a startup in the streaming industry.
 
 #### Software Engineering
 
-- 🔗 [Fashion E-commerce Platform](https://github.com/las-t1k/Ecommerce/)
-  - E-commerce development for fashion retail enhancement.
+8. 🔗 [Fashion E-commerce Platform](https://github.com/las-t1k/Ecommerce/)
+    - Develop an e-commerce platform for a fashion company to enhance their online presence and sales capabilities.
   
-- 🔗 [Satellite](https://github.com/las-t1k/satelite/)
-  - Web scraping and ETL for complaint management integration.
+9. 🔗 [Satellite](https://github.com/las-t1k/satelite/)
+    - Developed web scraping and ETL processes to extract complaints from various systems and integrate them into a single platform.
   
-- 🔗 [Steel](https://github.com/las-t1k/steel/)
-  - Microservice for real-time complaint collection.
+10. 🔗 [Steel](https://github.com/las-t1k/steel/)
+    - Developed a microservice responsible for collecting real-time complaints.
